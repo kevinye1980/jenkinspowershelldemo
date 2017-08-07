@@ -1,1 +1,1 @@
-Write-Host "This is a test script file"
+Write-Output "This is a test script file"
